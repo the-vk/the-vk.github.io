@@ -1,0 +1,23 @@
+---
+layout: single
+title:  "blog init"
+date:   2022-07-17 14:34:46 -0700
+categories: blog
+---
+"Hey, let's start a blog!" - what a wonderful idea I stumbled upon. Though I'm late to the party for many years.
+
+Do I have have something novel to say? I dunno, may be yes. 
+Do I want to say something? I do!
+
+I'm a software engineer by trade. We, engineering folks, love to create something new. 
+Something that I can start and finish, step back, and bask in glory of completed work. something like a blog post.
+
+I've been doing software engineering for 11+ years and I've collected some ideas and opinions over the time.
+I want to write it down, even if everything I write is for a single reader - myself.
+
+English is not my first language. Even not the second if I count programming languages.
+Blogging could be a good chance to practice my writing skills.
+
+Without further ado, let's just commit this blog post, publish it to GitHub Pages and start the journey.
+
+Welcome! I hope you'll find my blog interesting.
