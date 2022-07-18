@@ -34,13 +34,20 @@ github_username:  the-vk
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
+  - jekyll-gist
   - jekyll-github-metadata
   - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
 
 author:
   name      : "Andrey Maraev"
   bio       : "Engineer. Build Software. Manage teams."
   location  : "California, USA"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/the-vk"
 
 defaults:
   - scope:
@@ -52,6 +59,9 @@ defaults:
       related: true
       share: true
       show_date: true
+
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
