@@ -6,7 +6,7 @@ categories: blog
 ---
 "Hey, let's start a blog!" - what a wonderful idea I stumbled upon. Though I'm late to the party for many years.
 
-Do I have have something novel to say? I dunno, may be yes. 
+Do I have something novel to say? I dunno, may be yes. 
 Do I want to say something? I do!
 
 I'm a software engineer by trade. We, engineering folks, love to create something new. 
