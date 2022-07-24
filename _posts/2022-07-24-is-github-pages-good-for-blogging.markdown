@@ -9,7 +9,7 @@ Is GitHub Pages good for blogging? Of course it is!
 [GitHub Pages homepage](https://pages.github.com/) discusses blogging with Jekyll.
 Is it good for me? Let's find out!
 
-# My blog platform wish list
+## My blog platform wish list
 
 My wish list is not extensive, just some reasonable things:
 
@@ -32,18 +32,18 @@ There are some things I don't want:
 
 Let's see if GitHub Pages can make my wishes true.
 
-## Formatting language
+### Formatting language
 
 GitHub Pages supports basic HTML and can render Markdown.
 HTML is powerful and expressive; Markdown is very easy to use. Check &#10003;
 
-## Free hosting
+### Free hosting
 
 GitHub Pages is free for everyone. Free plan supports public repos. 
 GitHub Pages can host web site from private repo with GitHub Pro.
 Nothing can beat free. &#10003;
 
-## Customizable themes
+### Customizable themes
 
 GitHub Pages is powered by [Jekyll](https://jekyllrb.com/).
 Jekyll is a beast that takes markdown text + a theme and crunches everything into static HTML.
@@ -55,7 +55,7 @@ I decided to go with a theme [Minimal Mistakes](https://mmistakes.github.io/mini
 The theme looks nice and clean, supports tons of features out of the box and free to use under MIT license. 
 What's not to like? &#10003;
 
-## RSS or Atom feed
+### RSS or Atom feed
 
 Long time ago, when social networks didn't own our digital lives, it was a challenge to let the world know that your 
 blog has a new post. Some used email newsletters, some bright minds come up with idea of RSS (Really Simple Syndication) 
@@ -69,7 +69,7 @@ Yet it's my opinion that every respectable blog should have an RSS or Atom feed.
 The theme Minimal Mistakes supports RSS out of the box. Look for ![RSS Feed Icon](/assets/images/communication-rss-icon.png)
 in the bottom left corner. &#10003;
 
-## SEO Optimization
+### SEO Optimization
 
 If site is not indexed by Google, it may not even exist! Google is the entry door to internet for many.
 It's a no-brainer.
@@ -82,28 +82,28 @@ Jekyll and the theme Minimal Mistakes provide a lot in that department.
 
 Good enough and easy to use. &#10003;
 
-## Custom Domain
+### Custom Domain
 
 GitHub Pages supports custom domains out of the box. Set up CNAME record and site is good to go. &#10003;
 
-## Version control
+### Version control
 
 I'm engineer, I'm used to keep track of my work. GitHub Pages serve content from a git repo with all power and features 
 it comes with, including history change version control. &#10003;
 
-## Comments
+### Comments
 
 Who doesn't want to have a feedback or healthy discussion?
 The theme [Minimal Mistakes supports a lot of comments systems](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#comments).
 It's not yet enabled here. That's a topic for next blog posts. Stay tuned! &#10003;
 
-## Tracking
+### Tracking
 
 Personal data and tracking are the oil of modern web economy. Tracking is pervasive, it's everywhere.
 But I don't have to contribute to that! I value privacy.
 The theme comes with integration with Google Analytics toolset, but I'm not going to enable that. &#10003;
 
-## Bloated JS
+### Bloated JS
 
 I don't like bloated JS. It's ridiculous to load MBytes of JavaScript and spend non-zero number of CPU cycles to render
 a blog post. Blog is all about text and some media, everything else is unnecessary extra.
@@ -121,7 +121,7 @@ The blog even gets perfect 100 score from Google Lighthouse.
 
 No bloated JS! &#10003;
 
-# Conclusion
+## Conclusion
 
 So, is it good? Hell, it's perfect for me!
 
