@@ -9,6 +9,8 @@ Is GitHub Pages good for blogging? Of course it is!
 [GitHub Pages homepage](https://pages.github.com/) discusses blogging with Jekyll.
 Is it good for me? Let's find out!
 
+<!--more-->
+
 ## My blog platform wish list
 
 My wish list is not extensive, just some reasonable things:

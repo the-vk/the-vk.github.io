@@ -9,6 +9,8 @@ categories: blog
 Do I have something novel to say? I dunno, may be yes. 
 Do I want to say something? I do!
 
+<!--more-->
+
 I'm a software engineer by trade. We, engineering folks, love to create something new. 
 Something that I can start and finish, step back, and bask in glory of completed work. something like a blog post.
 

@@ -66,6 +66,7 @@ defaults:
       share: true
       show_date: true
       comments: true
+      excerpt_separator: <!--more-->
 
 include:
   - _pages
