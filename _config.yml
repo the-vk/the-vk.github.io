@@ -22,8 +22,7 @@ title: thevk blog
 name: "Andrey Maraev"
 email: the_vk@thevk.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Random ramblings about software engneerng, project management and other
-  exciting stuff
+  Random ramblings about software engineering, project management, and other exciting stuff
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thevk.net" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "the-vk/the-vk.github.io"
