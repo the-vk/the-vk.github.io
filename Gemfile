@@ -10,7 +10,7 @@ source "https://rubygems.org"
 
 gem "webrick"
 
-gem "github-pages", "228", group: :jekyll_plugins
+gem "github-pages", "232", group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-include-cache"
